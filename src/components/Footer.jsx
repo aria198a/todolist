@@ -40,4 +40,5 @@ const Footer = ({ todos }) => {
   );
 };
 
+
 export default Footer;
