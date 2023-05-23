@@ -17,6 +17,7 @@ const StyledAddTodoContainer = styled.div`
   }
 `;
 
+
 const StyledLabelIcon = styled.label`
   display: inline-flex;
   font-size: 30px;
