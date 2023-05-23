@@ -14,6 +14,7 @@ const StyledHeader = styled.header`
   }
 `;
 
+
 const StyledGreetingText = styled.div`
   color: var(--gray);
   span {
