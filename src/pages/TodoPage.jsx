@@ -41,7 +41,7 @@ const TodoPage = () => {
         },
       ];
     });
-    setInputValue('');
+    setInputValue(''); 
   };
   const handleKeyDown = () => {
     if (inputValue.length === 0) return;
