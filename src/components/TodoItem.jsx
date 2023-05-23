@@ -102,6 +102,7 @@ const StyledTaskItem = styled.div`
   }
 `;
 
+
 const TodoItem = ({ todo, onSave, onDelete, onToggleDone, onChangeMode }) => {
   const inputRef = useRef(null);
   const handleKeyDown = (e) => {
