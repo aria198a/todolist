@@ -97,9 +97,11 @@ const TodoPage = () => {
       });
     });
   };
+
   const handleDelete = ({ id }) => {
     setTodos(todos.filter((todo) => todo.id !== id));
   };
+
   return (
     <div>
       TodoPage
